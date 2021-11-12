@@ -1,4 +1,4 @@
-# Model-D2S: a systematic error simulation Model for DNA Data Storage channel
+# DNA-D2S: a systematic error simulation Model for DNA Data Storage channel
 
 ## Getting started with the web app
 
@@ -81,7 +81,7 @@ To use the notebooks, please download the project and install the dependencie fo
 
 ### Data
 The experimental sequencing data used in the paper are provided in seq_data.csv and seq_data.pkl. Data in the two files are the same,
-the pickle file is just for fast loading in python scripts.
+the pickle file is just for fast loading in python scripts. Please download the data from https://cloud.tsinghua.edu.cn/d/157100ca4c8e4fd387e1/, and move the data to files/ before running the validation notebook.
 
 
 ## Acknowledgements
