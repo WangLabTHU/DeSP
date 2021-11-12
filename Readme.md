@@ -5,7 +5,7 @@
 ### Live Demo
 For a live demo, visit http://192.144.226.158/ (server located in Beijing, China) or http://170.106.110.86/ (Silicon Valley, US)
 
-![app](https://github.com/WangLabTHU/SOSDNA/blob/main/webapp.jpg)
+![app](https://github.com/WangLabTHU/DNA-D2S/blob/main/files/webapp.jpg)
 
 In case that the web app doesn't response, you can also:
 
@@ -14,7 +14,7 @@ In case that the web app doesn't response, you can also:
 **Clone or download this repository, and install the dependencies:**
 
 ```bash
-git clone https://github.com/WangLabTHU/SOSDNA
+git clone https://github.com/WangLabTHU/DNA-D2S
 
 # install packages
 # under python 3.x
