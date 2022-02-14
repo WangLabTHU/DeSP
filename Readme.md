@@ -1,9 +1,9 @@
-# DNA-D2S: a systematic error simulation Model for DNA Data Storage channel
+# DeSP: a systematic error Simulation Platform for DNA data storage channel
 
 ## Getting started with the web app
 
 ### Live Demo
-For a live demo, visit http://192.144.226.158/ (server located in Beijing, China) or http://170.106.110.86/ (Silicon Valley, US)
+For a live demo, http://170.106.110.86/ (Silicon Valley, US)
 
 ![app](https://github.com/WangLabTHU/DNA-D2S/blob/main/files/webapp.jpg)
 
@@ -14,7 +14,7 @@ In case that the web app doesn't response, you can also:
 **Clone or download this repository, and install the dependencies:**
 
 ```bash
-git clone https://github.com/WangLabTHU/DNA-D2S
+git clone https://github.com/WangLabTHU/DeSP
 
 # install packages
 # under python 3.x
@@ -27,7 +27,7 @@ pip install matplotlib numpy plotly seaborn streamlit scipy reedsolo prettytable
 ```bash
 
 # move to the project folder
-cd download/DNA-D2S main
+cd download/DeSP main
 
 streamlit run main.py
 ```
